@@ -66,14 +66,10 @@ const CONFIG = {
       img_2: '/images/heo/2023e0ded7b724a39f12d59c3dc8fbdc7cbe074202.webp',
       color_2: '#ffffff'
     },
-    {
-      title_1 : '码头工人' ,
-      img_1 : '/images/heo/20231108a540b2862d26f8850172e4ea58ed075102.webp' ,
-      color_1 : '#57b6e6' ,
-      title_2 : 'Photoshop' ,
-      img_2 : '/images/heo/2023e4058a91608ea41751c4f102b131f267075902.webp' ,
-      color_2：'#4082c3'
-    } ,
+
+
+
+    
     {
       title_1 : 'FinalCutPro' ,
       img_1 : '/images/heo/20233e777652412247dd57fd9b48cf997c01070702.webp' ,
